@@ -40,17 +40,29 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h2>Actions and Observations</h2>
 
 
-![Screenshot 2024-05-21 144818](https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/a3d5bf46-804e-48df-b5e6-d3507fd4d3cf)
+Live traffic on Virtual Machine (VM-1) filtered for Internet Control Messaging Protocol (ICMP) traffic only (using Wireshark).
+
+
+https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/bbe367c4-b366-453c-952e-11a8dd884b76
 
 
 
-Live traffic on Virtual Machine (VM-1) filtered for Internet Control Messaging Protocol (ICMP) traffic only using Wireshark.
+
+
+
+
+
 ______________________________________________________________________________________________________________________
 
-![Screenshot 2024-05-21 144818](https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/fc653446-952b-4dc7-9757-460d6226421f)
+Virtual Machine (VM-1) Ping Virtual Machine (VM-2) from private IP address (using Powershell).
 
 
-Virtual Machine (VM-1) Ping Virtual Machine (VM-2) from private IP address using Powershell.
+![Screenshot 2024-05-21 144818](https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/53a2ebaa-b9b4-4f9e-8331-954890e60bae)
+
+
+
+Virtual Machine (VM-2) responded to Virtual Machine (VM-1) ping 4 times. Sent 4 request, recieved 4 replies.
+
 
 ![Observe ping requests and replies within WireShark](https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/d8945c6f-f2cc-45fc-91df-5ae002b9e88a)
 
@@ -58,7 +70,7 @@ Virtual Machine (VM-1) Ping Virtual Machine (VM-2) from private IP address using
 
 ![Ping VM2 from private IP address](https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/d3b538e1-029e-4004-ac14-2eb34bebd6cd)
 
-Virtual Machine (VM-2) responded to Virtual Machine (VM-1) ping 4 times. Sent 4 request, recieved 4 replies.
+
 ______________________________________________________________________________________________________________________
 
 
