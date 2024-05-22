@@ -73,11 +73,15 @@ Virtual Machine (VM-2) responded to Virtual Machine (VM-1) ping 4 times. Sent 4 
 
 ______________________________________________________________________________________________________________________
 
+Filtered for Domain Name System (DNS) traffic only (using Wireshark). 
+
+![DNS Traffic](https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/d1644871-7c7c-49f6-985d-09fc126631e9)
+
+From Windows 10 VM (VM-1) within a command line, use nslookup to see what is google.com IP address.
 
 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+
+![Command line lookup for google](https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/7bd21fad-4c19-4e86-820e-fc4b37935267)
+
+
+
