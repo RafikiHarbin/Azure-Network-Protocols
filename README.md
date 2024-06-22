@@ -41,13 +41,14 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 
 
-![Create RG-Lab-01](https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/e6b7ec9f-5d00-480a-ab27-6cc0fb37da4b)
+![Screenshot 2024-06-22 141422](https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/687e7dfd-96b8-447a-b149-48dba54e72ea)
 
 
 
 
 
-![RG-Lab-01 Completed](https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/38a559ea-3d32-437a-8886-2f2bf98d3e70)
+![RG-Lab-01 Completed](https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/6a0101f5-6bf7-46e7-bacd-b4f9e7a4199c)
+
 _______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
