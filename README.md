@@ -39,7 +39,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>Actions and Observations</h2>
 
-
+CREATING A RESOURCE GROUP
 
 ![Screenshot 2024-06-22 141422](https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/687e7dfd-96b8-447a-b149-48dba54e72ea)
 
@@ -51,7 +51,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-
+CREATING VIRTUAL MACHINE 1 (VM1)
 
 
 ![Creating VM1](https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/07fee03b-717f-478b-bc30-a626542a981a)
@@ -59,9 +59,38 @@ ________________________________________________________________________________
 
 ![VM1 Completed](https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/49e88671-28d6-4d2e-a133-65ecdabf4455)
 
+RESOURCES CREATED AUTOMATICALLY WHEN CREATING A VIRTUAL MACHINE (VM1)
+
+
+![Resources automatically created from creating VM1](https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/ec4fd057-7108-4561-8fda-7d34387bcb8a)
+
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
+CREATING A VIRTUAL NETWORK & SUBNET
 
+
+![Creating Virtual Network   Subnet](https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/c49a7b77-b5a1-48e1-9510-fc787af7d9bd)
+___________________________________________________________________________________________________________________________
+
+CREATING VIRTUAL MACHINE 2 (VM2)
+
+
+![Creating VM2](https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/ccea5b01-608f-43c6-b536-3d4082251f4a)
+
+
+![VM1   VM2 together](https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/b661b11e-0f64-4f41-b0a6-d62168205df0)
+
+RESOURCES CREATED AUTOMATICALLY FROM CREATING A VIRTUAL MACHINE (VM1) & (VM2)
+
+
+![Resources automatically created from creating VM1   VM2](https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/4d6704cd-34aa-4cdd-9c44-0daec4d4d642)
+
+
+
+![Resources automatically created from creating VM1   VM2 (2)](https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/1905afb4-2d28-4120-86a4-37ffcbfbb40b)
+
+
+___________________________________________________________________________________________________________________________
 Live traffic on Virtual Machine (VM-1) filtered for Internet Control Messaging Protocol (ICMP) traffic only (using Wireshark).
 
 
