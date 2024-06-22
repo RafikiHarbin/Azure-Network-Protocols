@@ -49,7 +49,17 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 ![RG-Lab-01 Completed](https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/6a0101f5-6bf7-46e7-bacd-b4f9e7a4199c)
 
-_______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+
+
+![Creating VM1](https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/07fee03b-717f-478b-bc30-a626542a981a)
+
+
+![VM1 Completed](https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/49e88671-28d6-4d2e-a133-65ecdabf4455)
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
 Live traffic on Virtual Machine (VM-1) filtered for Internet Control Messaging Protocol (ICMP) traffic only (using Wireshark).
