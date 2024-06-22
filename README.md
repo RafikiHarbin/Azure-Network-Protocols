@@ -127,13 +127,14 @@ https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/de3cc42
 
 ___________________________________________________________________________________________________________________________
 
-Live traffic on Virtual Machine (VM-1) filtered for Internet Control Messaging Protocol (ICMP) traffic only (using Wireshark).
+LIVE TRAFFIC ON VIRTUAL MACHINE (VM-1) FILTERED FOR INTERNET CONTROL MESSAGING PROTOCOL (ICMP) TRAFFIC ONLY, USING WIRESHARK
+![Type in ICMP](https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/db5b6208-bcd9-4035-8311-253ed1cce4f5)
 
 
-https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/bbe367c4-b366-453c-952e-11a8dd884b76
 
 
 
+![ICMP filtered traffic](https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/5ebe1694-35fa-42f7-a93d-d2ab7ec3564e)
 
 
 
@@ -141,7 +142,21 @@ https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/bbe367c
 
 ______________________________________________________________________________________________________________________
 
-Virtual Machine (VM-1) Ping Virtual Machine (VM-2) from private IP address (using Powershell).
+VIRTUAL MACHINE (VM1) PING VIRTUAL MACHINE (VM2) FROM PRIVATE IP ADDRESS, USING POWERSHELL
+           
+  ● Copy private IP address for VM2
+          
+  ● Go to VM1 Remote Desktop Connection & type in Powershell from start menu
+          
+  ● Type in ping & paste VM2 private IP address
+
+
+![VM2 private IP address](https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/423e45bb-2ef9-47a0-ae0f-eff8ca6a5179)
+
+
+
+![Powershell from start menu](https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/b89837d4-ea01-4e76-984c-b852c592526d)
+
 
 
 ![Screenshot 2024-05-21 144818](https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/53a2ebaa-b9b4-4f9e-8331-954890e60bae)
