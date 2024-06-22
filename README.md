@@ -91,15 +91,19 @@ RESOURCES CREATED AUTOMATICALLY FROM CREATING A VIRTUAL MACHINE (VM1) & (VM2)
 
 
 ___________________________________________________________________________________________________________________________
-CONNECTING TO Virtual MACHINE 1 (VM1)
+CONNECTING TO VIRTUAL MACHINE 1 (VM1) IN WINDOWS 
 
      ● Copy Public IP address from within VM1
-
-
-
-
+     ● From the start menu, open the Remote Desktop Connection & paste the Public IP address
+    
 ![Copy IP address from within VM1](https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/2efed8c4-15c8-4287-b516-320d9cdb72d9)
+        
 
+
+![Paste IP address to Remote Desktop Connection](https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/975b98f8-b475-457b-983a-c541fb0625db)
+
+
+![Connected to VM1](https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/d236c7f8-a66c-4112-8c87-c57c104a1d8c)
 ___________________________________________________________________________________________________________________________
 
 
