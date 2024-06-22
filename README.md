@@ -91,6 +91,18 @@ RESOURCES CREATED AUTOMATICALLY FROM CREATING A VIRTUAL MACHINE (VM1) & (VM2)
 
 
 ___________________________________________________________________________________________________________________________
+CONNECTING TO Virtual MACHINE 1 (VM1)
+
+     ● Copy Public IP address from within VM1
+
+
+
+
+![Copy IP address from within VM1](https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/2efed8c4-15c8-4287-b516-320d9cdb72d9)
+
+___________________________________________________________________________________________________________________________
+
+
 Live traffic on Virtual Machine (VM-1) filtered for Internet Control Messaging Protocol (ICMP) traffic only (using Wireshark).
 
 
