@@ -106,6 +106,26 @@ CONNECTING TO VIRTUAL MACHINE 1 (VM1) IN WINDOWS
 ![Connected to VM1](https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/d236c7f8-a66c-4112-8c87-c57c104a1d8c)
 ___________________________________________________________________________________________________________________________
 
+INSTALLING WIRESHARK TO INSPECT TRAFFIC AS I INTERACT WITH VIRTUAL MACHINE 2 (VM2)
+
+
+     ● Download Wireshark from VM1 
+     ● Capture packets & see live traffic on VM1
+
+
+
+
+![Downloading Wireshare from VM1](https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/e7b87ea3-e6ac-4336-bd3d-e374479a6d76)
+
+
+https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/de3cc429-85f8-4225-9af9-d6a4664986de
+
+
+
+
+
+
+___________________________________________________________________________________________________________________________
 
 Live traffic on Virtual Machine (VM-1) filtered for Internet Control Messaging Protocol (ICMP) traffic only (using Wireshark).
 
