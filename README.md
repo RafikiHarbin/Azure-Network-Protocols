@@ -19,25 +19,36 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h2>Operating Systems Used </h2>
 
 - Windows 10 (21H2)
-- Ubuntu Server 20.04
+- Linux (Ubuntu) Server 20.04
 
 <h2>High-Level Steps</h2>
 
 - Step 1: Create a Resource Group.
 
-- Step 2: Create a Windows 10 Virtual Machine (VM).
+- Step 2: Create a Windows 10 Virtual Machine (VM1).
 
-         a.While creating the VM, select the previously created Resource Group.
+         a.While creating the VM1, select the previously created Resource Group.
 
-         b.While creating the VM, allow it to create a new Virtual Network (Vnet) and Subnet.
+         b.While creating the VM1, allow it to create a new Virtual Network (Vnet) and Subnet.
 
-- Step 3: Create a Linux (Ubuntu) VM.
+- Step 3: Create a Linux (Ubuntu) Virtual Machine (VM2).
 
-         a.While creating the VM, select the previously created Resource Group and Vnet.
+         a.While creating the VM2, select the previously created Resource Group and Vnet.
 
 - Step 4:  Observe Your Virtual Network within Network Watcher.  
 
 <h2>Actions and Observations</h2>
+
+
+
+![Create RG-Lab-01](https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/e6b7ec9f-5d00-480a-ab27-6cc0fb37da4b)
+
+
+
+
+
+![RG-Lab-01 Completed](https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/38a559ea-3d32-437a-8886-2f2bf98d3e70)
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
 Live traffic on Virtual Machine (VM-1) filtered for Internet Control Messaging Protocol (ICMP) traffic only (using Wireshark).
