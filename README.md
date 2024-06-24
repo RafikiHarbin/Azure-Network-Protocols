@@ -175,11 +175,6 @@ Virtual Machine (VM-2) responded to Virtual Machine (VM-1) ping 4 times. Sent 4 
 
 ______________________________________________________________________________________________________________________
 
-FROM VIRTUAL MACHINE (VM1) WITHIN THE COMMAND LINE, USE NSLOOKUP TO SEE WHAT IS GOOGLE.COM IP ADDRESS
-
-![Command line lookup for google](https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/7bd21fad-4c19-4e86-820e-fc4b37935267)
-
-___________________________________________________________________________________________________________________________
 
 FILTERED FOR DOMAIN HOST CONFIGURATION PROTOCOL (DHCP) TRAFFIC ONLY, USING WIRESHARK
 
@@ -203,11 +198,13 @@ FILTERED FOR SECURE SHELL (SSH) TRAFFIC ONLY, USING WIRESHARK
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 FILTERED FOR DOMAIN NAME SYSTEM (DNS) TRAFFIC ONLY, USING WIRESHARK
 
-![DNS Traffic](https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/d1644871-7c7c-49f6-985d-09fc126631e9)
 
 
 
 
+![DNS](https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/c68b640e-dd6e-42ff-9e9a-17dbe644ff01)
+
+ ● From Virtual Machine (VM1) within the command line of Powershell, use nslookup to see what is google.com IP address
 
 
 
