@@ -206,7 +206,6 @@ FILTERED FOR DOMAIN NAME SYSTEM (DNS) TRAFFIC ONLY, USING WIRESHARK
 
  ● From Virtual Machine (VM1) within the command line of Powershell, use nslookup to see what is google.com IP address
 
-
-
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
