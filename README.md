@@ -175,15 +175,41 @@ Virtual Machine (VM-2) responded to Virtual Machine (VM-1) ping 4 times. Sent 4 
 
 ______________________________________________________________________________________________________________________
 
-Filtered for Domain Name System (DNS) traffic only (using Wireshark). 
+FROM VIRTUAL MACHINE (VM1) WITHIN THE COMMAND LINE, USE NSLOOKUP TO SEE WHAT IS GOOGLE.COM IP ADDRESS
+
+![Command line lookup for google](https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/7bd21fad-4c19-4e86-820e-fc4b37935267)
+
+___________________________________________________________________________________________________________________________
+
+FILTERED FOR DOMAIN HOST CONFIGURATION PROTOCOL (DHCP) TRAFFIC ONLY, USING WIRESHARK
+
+![DHCP IP address reissued](https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/383349ef-9c09-48c7-acfa-a90e34f97297)
+
+ ● DHCP is used to automatically assign an IP address
+          
+ ● ipconfig/ renew from the command line in Powershell forces the renewal of an IP address
+
+
+
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________
+FILTERED FOR SECURE SHELL (SSH) TRAFFIC ONLY, USING WIRESHARK
+
+
+
+![SSH](https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/379b5d26-5d2f-4331-9402-742a4342b92a)
+
+
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________
+FILTERED FOR DOMAIN NAME SYSTEM (DNS) TRAFFIC ONLY, USING WIRESHARK
 
 ![DNS Traffic](https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/d1644871-7c7c-49f6-985d-09fc126631e9)
 
-From Windows 10 VM (VM-1) within a command line, use nslookup to see what is google.com IP address.
 
 
 
-![Command line lookup for google](https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/7bd21fad-4c19-4e86-820e-fc4b37935267)
+
+
 
 
 
