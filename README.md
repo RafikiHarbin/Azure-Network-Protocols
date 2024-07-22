@@ -53,42 +53,51 @@ ________________________________________________________________________________
 
 CREATING VIRTUAL MACHINE 1 (VM1)
 
+![Screenshot 2024-07-22 175330](https://github.com/user-attachments/assets/1eda909b-0320-485b-86cd-fbb202c56a67)
 
-![Creating VM1](https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/07fee03b-717f-478b-bc30-a626542a981a)
 
 
-![VM1 Completed](https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/49e88671-28d6-4d2e-a133-65ecdabf4455)
+
+
+![Screenshot 2024-07-22 180633](https://github.com/user-attachments/assets/bfd69d11-1c50-4bca-b734-911e45bb1f47)
+
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 RESOURCES CREATED AUTOMATICALLY WHEN CREATING A VIRTUAL MACHINE (VM1)
 
 
-![Resources automatically created from creating VM1](https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/ec4fd057-7108-4561-8fda-7d34387bcb8a)
+
+
+![Screenshot 2024-07-22 182046](https://github.com/user-attachments/assets/b686056b-7201-4306-a9b8-1e74cb66c8e4)
+
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-CREATING A VIRTUAL NETWORK & SUBNET
+VIRTUAL NETWORK & SUBNET CREATED AUTOMATICALLY WHEN CREATING A VIRTUAL MACHINE 
 
 
-![Creating Virtual Network   Subnet](https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/c49a7b77-b5a1-48e1-9510-fc787af7d9bd)
+
+
+![Subnet](https://github.com/user-attachments/assets/4c9d9fa6-f46f-4066-9e13-2f8ec8063be6)
+
+
 ___________________________________________________________________________________________________________________________
 
 CREATING VIRTUAL MACHINE 2 (VM2)
 
 
-![Creating VM2](https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/ccea5b01-608f-43c6-b536-3d4082251f4a)
-
-
-![VM1   VM2 together](https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/b661b11e-0f64-4f41-b0a6-d62168205df0)
-
-RESOURCES CREATED AUTOMATICALLY FROM CREATING A VIRTUAL MACHINE (VM1) & (VM2)
-
-
-![Resources automatically created from creating VM1   VM2](https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/4d6704cd-34aa-4cdd-9c44-0daec4d4d642)
+![VM2](https://github.com/user-attachments/assets/d5bf4fbf-191e-476e-8e3b-ae6f557e5d53)
 
 
 
-![Resources automatically created from creating VM1   VM2 (2)](https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/1905afb4-2d28-4120-86a4-37ffcbfbb40b)
+![VM 1 2](https://github.com/user-attachments/assets/a4f37c2e-df82-42c9-83dd-a8ad5b10c7a0)
 
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+RESOURCES CREATED AUTOMATICALLY FROM CREATING VIRTUAL MACHINE 1 & 2 (VM1) & (VM2)
+
+
+
+![VM 1 2 RESOURCES](https://github.com/user-attachments/assets/ed5f224e-09d1-4964-a526-f337a17e7b17)
 
 ___________________________________________________________________________________________________________________________
 CONNECTING TO VIRTUAL MACHINE 1 (VM1) IN WINDOWS 
