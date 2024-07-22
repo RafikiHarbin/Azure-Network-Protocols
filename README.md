@@ -41,13 +41,13 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 CREATING A RESOURCE GROUP
 
-![Screenshot 2024-06-22 141422](https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/687e7dfd-96b8-447a-b149-48dba54e72ea)
+![Screenshot 2024-07-22 171726](https://github.com/user-attachments/assets/d2624d36-98e3-4b3f-9955-28b0e0d8a83a)
 
 
 
 
+![Screenshot 2024-07-22 164153](https://github.com/user-attachments/assets/e0381722-1b42-4749-93b2-22c4512d22ea)
 
-![RG-Lab-01 Completed](https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/6a0101f5-6bf7-46e7-bacd-b4f9e7a4199c)
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
