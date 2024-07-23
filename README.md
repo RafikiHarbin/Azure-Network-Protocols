@@ -115,35 +115,25 @@ CONNECTING TO VIRTUAL MACHINE 1 (VM1) IN WINDOWS
 
 ___________________________________________________________________________________________________________________________
 
-INSTALLING WIRESHARK TO INSPECT TRAFFIC AS I INTERACT WITH VIRTUAL MACHINE 2 (VM2)
+INSTALLING WIRESHARK ON (VM1) TO INSPECT THE TRAFFIC INTERACTING WITH (VM2)
 
 
      ● Download Wireshark from VM1 
      ● Capture packets & see live traffic on VM1
 
-
-
-
-![Downloading Wireshare from VM1](https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/e7b87ea3-e6ac-4336-bd3d-e374479a6d76)
-
-
-https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/de3cc429-85f8-4225-9af9-d6a4664986de
+![Wireshark](https://github.com/user-attachments/assets/ccf78a6c-3782-43fd-9d37-8aef31bb791e)
 
 
 
 
+
+https://github.com/user-attachments/assets/d44c106f-dfa9-4d86-8a2f-33ee50c48371
 
 
 ___________________________________________________________________________________________________________________________
 
 LIVE TRAFFIC ON VIRTUAL MACHINE (VM-1) FILTERED FOR INTERNET CONTROL MESSAGING PROTOCOL (ICMP) TRAFFIC ONLY, USING WIRESHARK
-![Type in ICMP](https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/db5b6208-bcd9-4035-8311-253ed1cce4f5)
-
-
-
-
-
-![ICMP filtered traffic](https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/5ebe1694-35fa-42f7-a93d-d2ab7ec3564e)
+![ICMP Only](https://github.com/user-attachments/assets/4f658ae9-cae5-44b6-8445-62e975d605d4)
 
 
 
@@ -153,34 +143,22 @@ ________________________________________________________________________________
 
 VIRTUAL MACHINE (VM1) PING VIRTUAL MACHINE (VM2) FROM PRIVATE IP ADDRESS, USING POWERSHELL
            
-  ● Copy private IP address for VM2
+  ● Private IP address for VM2: 10.0.0.5
           
-  ● Go to VM1 Remote Desktop Connection & type in Powershell from start menu
-          
-  ● Type in ping & paste VM2 private IP address
-
-
-![VM2 private IP address](https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/423e45bb-2ef9-47a0-ae0f-eff8ca6a5179)
 
 
 
-![Powershell from start menu](https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/b89837d4-ea01-4e76-984c-b852c592526d)
 
-
-
-![Screenshot 2024-05-21 144818](https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/53a2ebaa-b9b4-4f9e-8331-954890e60bae)
+![ping 10 0 0 5](https://github.com/user-attachments/assets/da08f4a8-6d67-4db4-b418-d47b87b4a64e)
 
 
 
 Virtual Machine (VM-2) responded to Virtual Machine (VM-1) ping 4 times. Sent 4 request, recieved 4 replies.
 
 
-![Observe ping requests and replies within WireShark](https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/d8945c6f-f2cc-45fc-91df-5ae002b9e88a)
+![Communicating](https://github.com/user-attachments/assets/dd8d0772-7870-44f3-911e-4122419f6d83)
 
-
-
-![Ping VM2 from private IP address](https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/d3b538e1-029e-4004-ac14-2eb34bebd6cd)
-
+![Packets](https://github.com/user-attachments/assets/3f84e4cc-30ce-49c3-b257-72163b63cc99)
 
 ______________________________________________________________________________________________________________________
 
