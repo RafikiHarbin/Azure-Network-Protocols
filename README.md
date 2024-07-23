@@ -144,7 +144,8 @@ ________________________________________________________________________________
 VIRTUAL MACHINE (VM1) PING VIRTUAL MACHINE (VM2) FROM PRIVATE IP ADDRESS, USING POWERSHELL
            
   ● Private IP address for VM2: 10.0.0.5
-          
+ 
+  ● Private IP address for VM1: 10.0.0.4       
 
 
 
@@ -162,10 +163,30 @@ Virtual Machine (VM-2) responded to Virtual Machine (VM-1) ping 4 times. Sent 4 
 
 ______________________________________________________________________________________________________________________
 
+CREATE A NEW SECURITY RULE THAT WILL DENY INBOUND ICMP (PING) TRAFFIC
+
+
+
+
+![Creating Rule](https://github.com/user-attachments/assets/d7c410ef-b199-4fc1-a95e-696a2368bf37)
+
+
+
+
+![Deny ICMP](https://github.com/user-attachments/assets/e0e17150-c017-4e2a-8589-574987875563)
+
+
+
+
+![No Response](https://github.com/user-attachments/assets/69a7ca14-624d-412e-9be5-0eb4dedacf19)
+
+_______________________________________________________________________________________________________________________________________________________
+
 
 FILTERED FOR DOMAIN HOST CONFIGURATION PROTOCOL (DHCP) TRAFFIC ONLY, USING WIRESHARK
 
-![DHCP IP address reissued](https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/383349ef-9c09-48c7-acfa-a90e34f97297)
+![DHCP](https://github.com/user-attachments/assets/4b919c7d-d958-4951-8868-3e40c5012180)
+
 
  ● DHCP is used to automatically assign an IP address
           
@@ -189,7 +210,8 @@ FILTERED FOR DOMAIN NAME SYSTEM (DNS) TRAFFIC ONLY, USING WIRESHARK
 
 
 
-![DNS](https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/c68b640e-dd6e-42ff-9e9a-17dbe644ff01)
+![DNS only](https://github.com/user-attachments/assets/4bf61e52-33b1-4487-8c4c-15ef1c509e6a)
+
 
  ● From Virtual Machine (VM1) within the command line of Powershell, use nslookup to see what is google.com IP address
 
