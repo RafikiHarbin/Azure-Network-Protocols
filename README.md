@@ -13,7 +13,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Various Command-Line Tools
-- Various Network Protocols (SSH, RDH, DNS, HTTP/S, ICMP)
+- Various Network Protocols (ICMP, DHCP, DNS)
 - Wireshark (Protocol Analyzer)
 
 <h2>Operating Systems Used </h2>
@@ -196,14 +196,9 @@ FILTERED FOR DOMAIN HOST CONFIGURATION PROTOCOL (DHCP) TRAFFIC ONLY, USING WIRES
 
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________________
-FILTERED FOR SECURE SHELL (SSH) TRAFFIC ONLY, USING WIRESHARK
 
 
 
-![SSH](https://github.com/RafikiHarbin/Azure-Network-Protocols/assets/170275827/379b5d26-5d2f-4331-9402-742a4342b92a)
-
-
-_____________________________________________________________________________________________________________________________________________________________________________________________________________________________
 FILTERED FOR DOMAIN NAME SYSTEM (DNS) TRAFFIC ONLY, USING WIRESHARK
 
 
